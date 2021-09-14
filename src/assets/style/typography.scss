@@ -1,0 +1,27 @@
+body {
+	font-family: $font-family !important;
+	font-weight: $font-weight;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-align: center !important;
+	color: $text-color !important;
+}
+
+h1, .h1 {
+	font-size: $font-size-h1;
+	font-weight: $font-weight-h1;
+	margin-bottom: $margin-base-vertical;
+}
+
+h2, .h2 {
+	font-size: $font-size-h2;
+	font-weight: $font-weight-h2;
+	margin-bottom: $margin-base-vertical;
+}
+
+h3, .h3 {
+	font-size: $font-size-h3;
+	font-weight: $font-weight-h3;
+	margin-bottom: $margin-base-vertical;
+}
+

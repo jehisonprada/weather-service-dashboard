@@ -1,0 +1,24 @@
+//typography
+$font-family: 'Montserrat alternates', sans-serif;
+$font-weight: 200 !default;
+$font-size-h1: 3.5 em;
+$font-size-h2: 2.7 em;
+$font-size-h3: 1.9 em;
+$font-weight-h1: 600;
+$font-weight-h2: 300;
+$font-weight-h3: 200;
+
+// Color
+$primary-color: #3bb9ec !default;
+$primary-color-opacity: rgba(58, 189, 236, .3) !default;
+$text-color: #456c45;
+
+// Card
+$card-shadow-color: #627662;
+$card-shadow: 0 5px 10px 0;
+$card-shadow-on-hover: 0 10px 20px 0;
+$card-body-padding: 5px 15px;
+$card-padding: 20px, 10px;
+
+//margin
+$margin-base-vertical: 15px !default;
